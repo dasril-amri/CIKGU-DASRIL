@@ -1,0 +1,6 @@
+{
+  "name": "Slam Dunk Basketball",
+  "description": "Game bola basket interaktif dengan fisika tembakan realistis, mode solo, mode kelompok dengan admin room & live leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
